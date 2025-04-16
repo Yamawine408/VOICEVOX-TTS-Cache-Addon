@@ -1,0 +1,13 @@
+{
+  "name": "Voicevox TTS Cache",
+  "version": "1.0",
+  "slug": "voicevox_tts_cache",
+  "description": "Caches TTS from Voicevox",
+  "startup": "application",
+  "boot": "auto",
+  "host_network": true,
+  "options": {},
+  "schema": {},
+  "arch": ["amd64", "armv7", "aarch64"],
+  "map": ["share:rw"]
+}

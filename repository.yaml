@@ -1,0 +1,7 @@
+addons:
+  - name: Voicevox TTS Cache
+    slug: voicevox_tts_cache
+    description: Caches TTS audio from Voicevox to reduce synthesis timeouts.
+    repository: local
+    url: https://github.com/Yamawine408/voicevox-tts-cache-addon
+    maintainer: yamawine408@gmail.com   
